@@ -16,7 +16,7 @@ text_mining_nlu_url = 'https://drive.google.com/open?id=1puNXOTh1DoArz_20eV748D1
 hadoop_url = 'https://drive.google.com/open?id=10mZ5iis0aCI7S4AzbFOAlEXW4FOdr5dW'
 kafka_url = 'https://drive.google.com/open?id=1ZfRDO713xLXHSVrMXUWOYXlep4kYXRW1'
 
-def handout_carouse():
+def handout():
 
     handout_carouse = CarouselTemplate(
                 columns=[
@@ -87,5 +87,5 @@ def handout_carouse():
                     
                     ]
                 )
-    print(type(handout_carouse))
+    
     return handout_carouse

@@ -8,6 +8,13 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 line-bot-sdk==1.16.0
 MarkupSafe==1.1.1
+numpy==1.18.3
+pandas==1.0.3
+python-dateutil==2.8.1
+pytz==2020.1
 requests==2.23.0
+six==1.14.0
 urllib3==1.25.9
 Werkzeug==1.0.1
+Wikipedia-API==0.5.4
+xlrd==1.2.0
